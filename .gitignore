@@ -2,3 +2,4 @@ database.sqlite
 .ipynb_checkpoints/
 *.csv
 *.html
+notebook Latex/
