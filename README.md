@@ -1,0 +1,2 @@
+# europeansoccerdatabase
+This soccer database comes from Kaggle and is well suited for data analysis and machine learning. It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016. This dataset is quite extensive. I'll explore some questions about teams and players so write SQL code to export data from data that I'll use it to explore the questions. and I noticed the problems on data in the first columns the data duplicated in many rows and get at different time.
